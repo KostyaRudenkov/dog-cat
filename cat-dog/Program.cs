@@ -7,7 +7,9 @@ namespace cat_dog
 {
     class Program
     {
+	//type Enum for animal
         public enum AnimalEnum { Dog, Cat, Pig, Horse }
+
         public static void AddAnimalsDictionary(Dictionary<string, AnimalEnum> animal, string[] keyAnimal, AnimalEnum valueAnimal)
         {
             for (int i = 0; i < keyAnimal.Length; i++)
