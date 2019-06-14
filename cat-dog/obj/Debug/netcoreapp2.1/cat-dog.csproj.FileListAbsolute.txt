@@ -1,0 +1,11 @@
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\bin\Debug\netcoreapp2.1\cat-dog.deps.json
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\bin\Debug\netcoreapp2.1\cat-dog.runtimeconfig.json
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\bin\Debug\netcoreapp2.1\cat-dog.runtimeconfig.dev.json
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\bin\Debug\netcoreapp2.1\cat-dog.dll
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\bin\Debug\netcoreapp2.1\cat-dog.pdb
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\obj\Debug\netcoreapp2.1\cat-dog.csprojAssemblyReference.cache
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\obj\Debug\netcoreapp2.1\cat-dog.csproj.CoreCompileInputs.cache
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\obj\Debug\netcoreapp2.1\cat-dog.AssemblyInfoInputs.cache
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\obj\Debug\netcoreapp2.1\cat-dog.AssemblyInfo.cs
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\obj\Debug\netcoreapp2.1\cat-dog.dll
+C:\Users\tratata\Desktop\tasks\cat-dog\cat-dog\obj\Debug\netcoreapp2.1\cat-dog.pdb
